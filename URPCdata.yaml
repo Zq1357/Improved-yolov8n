@@ -1,0 +1,11 @@
+
+train: URPC2020/images/train
+val: URPC2020/images/val
+test: URPC2020/images/test
+
+# number of classes
+nc: 4
+
+# class names
+#names: ['holothurian', 'echinus', 'starfish', 'scallop']
+names: ['holothurian', 'echinus', 'scallop', 'starfish']
